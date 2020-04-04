@@ -18,4 +18,7 @@ Question 3 :-(Solved using c++)
    
 Question 4 :-(Unsolved)
 
-Question 5 :-(Unsolved)
+Question 5 :-(solved using c++)
+   you are given size of matrix and sum of elements of diagonal in each test case
+   you have to print latin matrix which has sum of diagonal elements equal to the input given
+   if it is not possible then print IMPOSSIBLE
